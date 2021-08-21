@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hi, I'm Ow Elko 👋  
+### Hi, I'm Ow Elko 👋  
 
 <p align="center">
     <a href="#">
