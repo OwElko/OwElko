@@ -1,4 +1,4 @@
-### Hi, I'm Ow Elko 👋  
+### Hi, I'm Ow Elko 👋  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aliettazi)
 
 <p align="center">
     <a href="#">
