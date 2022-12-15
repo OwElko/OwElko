@@ -1,5 +1,8 @@
 ### Hi, I'm Ow Elko 👋  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aliettazi)
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=120&multiline=true&width=500&height=80&lines=Ow+Elko;Mini+Coder+%7C+SEO+Specialist+%7C+Web+Preneur;AI+Enthusiast++%7C+Computing+Researcher+%7C+Bots" alt="Typing SVG" />
+</p>
+
 <p align="center">
     <a href="#">
          <img src="https://github-readme-stats.vercel.app/api?username=owelko&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" height="300" >
